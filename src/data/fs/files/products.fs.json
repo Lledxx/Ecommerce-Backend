@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9d1f91e7df888eee078c4670",
+    "title": "asd",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png",
+    "price": "123123123",
+    "stock": "1"
+  },
+  {
+    "id": "53fe4d88228504343f9c95f8",
+    "title": "11",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png",
+    "price": "11",
+    "stock": "11"
+  }
+]
